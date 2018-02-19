@@ -17,6 +17,7 @@ This is the bundle repository for the research conducted during the ScaleIT Proj
 * Fabian Pöhler, Bachelor Thesis, Cloud Deployment Concepts for Industrial IoT Devices, ongoing
 * Christian Navolskyi, Bachelor Thesis, Benchmarking of Semantic Databases for Industrial Use Cases, ongoing
 * Matthias Schedel, Bachelor Thesis, Shop-Floor Linked Data Graph – Design Of A Linked Data Processing System Architecture For The * Manufacturing Domain, Jan. 2018
+* Oliver König, Antonios Karatzoglou, Andrei Miclaus, Ontology-based Information Flow Control and Visualization in an Industry 4.0 scenario, Bachelor Thesis, `urn:nbn:de:swb:90-783043`, ![published on github](https://github.com/ScaleIT-Org/Ontology-based-InformationFlow-Industry-4.0)
 * Nicolas Schreiber, Bachelor Thesis, Serverless Data Science Infrastructure (SDIS): A System Design for the Deployment of Machine * Learning Functions, Nov. 2017
 * Dominik Kogel, Bachelor Thesis, Strategien für eine vernetzte Linearachse im Kontext von Industrie 4.0 (Strategies for a Connected * Linear Axes in Context of the 4th Industrial Revolution), Nov. 2017
 * Tobias Röddiger, Bachelor Thesis, Gaze-Aware Notifications – Benefitting from Additional Context, Aug. 2017
